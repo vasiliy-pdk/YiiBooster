@@ -1,5 +1,6 @@
 {
 	"name": "vasiliy-pdk/YiiBooster",
+	"type": "yii-extension",
 	"description": "YiiBooster is a widget toolkit for Yii web framework. Its main purpose is to ease building UI in Yii-based web applications utilizing the beauty of Twitter Bootstrap and several other great UI plugins developed over time by the community.",
 	"keywords": ["yii", "bootstrap", "YiiBooster"],
 	"homepage": "http://yii-booster.clevertech.biz/"
